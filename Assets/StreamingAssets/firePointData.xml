@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirePointData>
+    <FirePoints>
+    <FirePointInfo id="1" type="1" num="5" delay="0.8" ids="1,10" cd="8"/>
+    <FirePointInfo id="2" type="2" num="5" delay="0" ids="11,20" cd="10"/>
+    <FirePointInfo id="3" type="2" num="8" delay="0.5" ids="1,20" cd="5"/>
+    <FirePointInfo id="4" type="1" num="10" delay="0.5" ids="5,15" cd="10"/>
+</FirePoints>
+</FirePointData>

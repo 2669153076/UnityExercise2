@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise2\\assets\\scripts\\item\\firepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\firepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise2\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise2\\assets\\scripts\\item\\bkmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\bkmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise2\\assets\\scripts\\panel\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panel\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise2\\assets\\scripts\\panel\\gameoverpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panel\\gameoverpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise2\\assets\\scripts\\item\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise2\\assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise2\\assets\\scripts\\manager\\gamedatamgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamedatamgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise2\\assets\\scripts\\data\\firepointdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\firepointdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise2\\assets\\scripts\\data\\roledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\roledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise2\\assets\\scripts\\item\\rankitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\rankitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise2\\assets\\scripts\\panel\\rankpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panel\\rankpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise2\\assets\\scripts\\data\\rankdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\rankdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise2\\assets\\scripts\\panel\\roleselpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panel\\roleselpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise2\\assets\\scripts\\panel\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panel\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise2\\assets\\scripts\\panel\\panelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panel\\panelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise2\\assets\\scripts\\panel\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panel\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise2\\assets\\scripts\\data\\settingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D8A41-100D-1BC7-62EE-8CD417BC84C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\settingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\DataManager\\CustomDictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DataManager\\CustomDictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameOverPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Panel\\GameOverPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel\\GameOverPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Panel\\GameOverPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Panel\\GameOverPanel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvw8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:20:36.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:13:49.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirePoint.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Item\\FirePoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item\\FirePoint.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Item\\FirePoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item\\FirePoint.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAnwIEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:57:16.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Item\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item\\Bullet.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Item\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item\\Bullet.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAADwvzoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:09:17.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GamePanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Panel\\GamePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel\\GamePanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Panel\\GamePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Panel\\GamePanel.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:56:21.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BKMusic.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Item\\BKMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item\\BKMusic.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Item\\BKMusic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item\\BKMusic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:44:30.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Main.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Main.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:08:24.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FirePointData.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Data\\FirePointData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\FirePointData.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Data\\FirePointData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\FirePointData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:40:58.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleSelPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Panel\\RoleSelPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel\\RoleSelPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Panel\\RoleSelPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Panel\\RoleSelPanel.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:08:43.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleData.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Data\\RoleData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\RoleData.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Data\\RoleData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\RoleData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:41:33.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RankItem.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Item\\RankItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item\\RankItem.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Item\\RankItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item\\RankItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:12:47.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RankPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Panel\\RankPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel\\RankPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Panel\\RankPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Panel\\RankPanel.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:09:07.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RankData.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Data\\RankData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\RankData.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Data\\RankData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\RankData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:58:45.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameDataMgr.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Manager\\GameDataMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameDataMgr.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Manager\\GameDataMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameDataMgr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:26:24.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SettingData.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Data\\SettingData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\SettingData.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Data\\SettingData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\SettingData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:23:03.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SettingPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Panel\\SettingPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel\\SettingPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Panel\\SettingPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Panel\\SettingPanel.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwDEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:13:33.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BeginPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Panel\\BeginPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel\\BeginPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Panel\\BeginPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Panel\\BeginPanel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:24:56.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PanelBase.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Panel\\PanelBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel\\PanelBase.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\Panel\\PanelBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Panel\\PanelBase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:49:03.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomDictionary.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\DataManager\\CustomDictionary.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DataManager\\CustomDictionary.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise2\\Assets\\Scripts\\DataManager\\CustomDictionary.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DataManager\\CustomDictionary.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:40:31.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
